@@ -4,5 +4,5 @@
 
 ## Curriculum
 
-- [what is the html](what_is_html/)
-- [HTML5](html5/)
+- [what is the html](/WhatIsHtml/README.md)
+- [HTML5](/Html5/README.md)
